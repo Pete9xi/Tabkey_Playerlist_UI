@@ -1,10 +1,10 @@
 # Tab Key Playerlist UI
-![ダウンロード](https://img.shields.io/github/downloads/Gotemba912/Tabkey_Playerlist_UI/total?style=plastic)  
-このマイクラ統合版用リソースパックは、  
-HUDでTabキーを押すと、プレイヤーリストを表示することができます。
-## 操作
-Tabキーを押しながら、マウスホイールを回すと、スクロールができます。
-## パックの使用
-このパックからコピーしたことを明記してくれれば、自由に自分のリソースパックなどにコピーしていただいても構いません。
-## ダウンロード
-[GitHub Releases](https://github.com/Gotemba912/Tabkey_Playerlist_UI/releases) からどぞ。
+![Download](https://img.shields.io/github/downloads/Gotemba912/Tabkey_Playerlist_UI/total?style=plastic)
+This Minecraft integrated version resource pack is
+You can display the player list by pressing the Tab key on the HUD.
+## Operation
+You can scroll by holding down the Tab key and turning the mouse wheel.
+## Using packs
+Feel free to copy it into your own resource packs, etc., as long as you clearly indicate that you copied it from this pack.
+## Download
+Please see [GitHub Releases](https://github.com/Gotemba912/Tabkey_Playerlist_UI/releases).
